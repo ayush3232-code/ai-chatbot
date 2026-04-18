@@ -4,7 +4,7 @@ A conversational chatbot built with Python and Google Gemini AI.
 
 ## Features
 - Multi-turn conversation with memory
-- Custom AI personality (Aria)
+- Custom AI personality (FRIDAY)
 - Saves chat history as JSON
 - Secure API key handling with .env
 
